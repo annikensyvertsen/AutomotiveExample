@@ -1,5 +1,5 @@
 # AutomotiveExample
-In this repo you will find a very simlpified code example with a basic Android Automotive setup for an application with the POI category.
+In this repo you will find a very simplified code example with a basic Android Automotive setup for an application with the POI category.
 If you want to change the category of the application, this can be done in the AndroidManifest.xml file, just search for "POI" and replace it with the cateogry you want.
 
 You can find the code in this repository, but below, I will include a guide to setup an Android Automotive project. 
