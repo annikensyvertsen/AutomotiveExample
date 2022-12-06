@@ -288,7 +288,7 @@ Make sure you have:
 - replaced the packagename with your package name all places
 - the correct minSdk and targetSdk in the build.gradle file
 
-If you have tried to use Volvo or Polestar emulator and your Mac uses Apple chip, it might not be compatible, so try with the Automotive emulator that is default in Android Studio instead.
+If you have tried to use Volvo or Polestar emulator and your Mac uses Apple chip, it might not be compatible, so try with the Automotive emulator that is default in Android Studio instead. At this day, the emulator is (unfortunatly enough) not provided in Android Studio, so I had to download Android Studio Preview to access it. 
 
 You must include CarAppService and use the templates provided from Google. This is not optional. However, if you create a login/sig in page, this can be customized using View or Jetpack Compose if you want.  
 
