@@ -1,7 +1,6 @@
-package com.fremtind.bom_ferge
+package com.example.automotive_example
 
 import android.content.pm.ApplicationInfo
-import android.util.Log
 import androidx.car.app.CarAppService
 import androidx.car.app.Session
 import androidx.car.app.validation.HostValidator

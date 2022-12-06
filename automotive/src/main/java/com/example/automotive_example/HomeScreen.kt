@@ -1,4 +1,4 @@
-package com.fremtind.bom_ferge
+package com.example.automotive_example
 
 import androidx.car.app.CarContext
 import androidx.car.app.Screen
